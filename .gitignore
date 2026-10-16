@@ -1,0 +1,6 @@
+/target/
+*.wav
+*.log
+.env
+.idea/
+.vscode/
